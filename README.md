@@ -7,13 +7,13 @@ SoftUni JS Back-End Course Workshop
 ### Setup
  - [x] Initialize Project
  - [x] Add Express Server `npm i express`
- - [ ] Config debugging
+ - [x] Config debugging
  - [x] Add Workshop Resources
  - [x] Setup Handlebars `npm i express-handlebars`
- - [ ] Setup static files
- - [ ] Render Home Page
- - [ ] Add Layout
- - [ ] Render About Page
+ - [x] Setup static files
+ - [x] Render Home Page
+ - [x] Add Layout
+ - [x] Render About Page
 ### Architecture and dynamic rendering
  - [ ] Add home controller
  - [ ] Add movie data layer
