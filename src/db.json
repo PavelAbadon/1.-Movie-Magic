@@ -1,0 +1,81 @@
+{
+  "movies": [
+    {
+      "_id": "h001",
+      "title": "Nosferatu",
+      "genre": "Horror",
+      "description": "In this unauthorized adaptation of Dracula, the vampire Count Orlok expresses interest in a new residence and real estate agent Hutter's young wife, Ellen.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nosferatu_1922_film_poster.jpg",
+      "director": "F. W. Murnau",
+      "year": "1922",
+      "rating": 7.9,
+      "category": "movie"
+    },
+    {
+      "_id": "h002",
+      "title": "Dracula",
+      "genre": "Horror",
+      "description": "The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dracula_1931.jpg",
+      "director": "Tod Browning",
+      "year": "1931",
+      "rating": 7.5,
+      "category": "movie"
+    },
+    {
+      "_id": "h003",
+      "title": "Frankenstein",
+      "genre": "Horror",
+      "description": "Dr. Frankenstein dares to tamper with life and death by creating a human monster out of lifeless body parts.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Frankenstein_poster_1931.jpg",
+      "director": "James Whale",
+      "year": "1931",
+      "rating": 7.8,
+      "category": "movie"
+    },
+    {
+      "_id": "h004",
+      "title": "Psycho",
+      "genre": "Horror, Thriller",
+      "description": "A secretary embezzles money and checks into a remote motel run by a young man under the domination of his mother.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Psycho_%281960%29_theatrical_poster.jpg",
+      "director": "Alfred Hitchcock",
+      "year": "1960",
+      "rating": 8.5,
+      "category": "movie"
+    },
+    {
+      "_id": "h005",
+      "title": "Night of the Living Dead",
+      "genre": "Horror",
+      "description": "A group of people trapped in a farmhouse must fight to stay alive against a horde of flesh-eating ghouls.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Night_of_the_Living_Dead_%281968%29_poster.jpg",
+      "director": "George A. Romero",
+      "year": "1968",
+      "rating": 7.8,
+      "category": "movie"
+    },
+    {
+      "_id": "h006",
+      "title": "The Exorcist",
+      "genre": "Horror",
+      "description": "When a young girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/Exorcist_ver2.jpg",
+      "director": "William Friedkin",
+      "year": "1973",
+      "rating": 8.1,
+      "category": "movie"
+    },
+    {
+      "_id": "h007",
+      "title": "Halloween",
+      "genre": "Horror, Slasher",
+      "description": "Fifteen years after murdering his sister, Michael Myers escapes from a mental hospital and returns to his hometown to kill again.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/Halloween_%281978%29_theatrical_poster.jpg",
+      "director": "John Carpenter",
+      "year": "1978",
+      "rating": 7.7,
+      "category": "movie"
+    }
+  ]
+}
