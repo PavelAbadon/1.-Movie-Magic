@@ -4,6 +4,7 @@ SoftUni JS Back-End Course Workshop
 
 ## Development Steps
 
+## EXERCISE 1 -  ExpressJS and Templating
 ### Setup
  - [x] Initialize Project
  - [x] Add Express Server `npm i express`
@@ -46,11 +47,18 @@ SoftUni JS Back-End Course Workshop
    - [x] By year
    - [x] By genre
    - [x] By title 
+   - [x] By rating and fix CSS 
  - [x] Remember search words
 ### Bonuses
  - [x] Dynamic page title
  - [x] Rating (temp solution)
  - [x] File Persistance
+
+
+## EXERCISE 2 -  MongoDB
+### Setup
+ - [x] Install mongoose npm i mongoose
+ - [x] Connect to DB
 
 
 
