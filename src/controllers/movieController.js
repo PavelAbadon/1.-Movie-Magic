@@ -5,7 +5,7 @@ const movieController = Router();
 
 movieController.get('/create', (req, res) =>{
     
-    res.render('create');
+    res.render('create', {pageTitle:'Create Movie'});
 });
 
 movieController.post('/create', (req, res) =>{
@@ -20,14 +20,14 @@ movieController.get('/:movieId/details',(req, res) =>{
     const movie = movieService.getOne(movieId);
     
 
-    res.render('details', { movie });
+    res.render('details', { movie, pageTitle:'Movie Magic / Search' });
 } )
 
 movieController.get('/search', (req, res) =>{
     const filter = req.query;
     const movies = movieService.getAll(filter);
     
-    res.render("search", { movies, filter});
+    res.render("search", { movies, filter, pageTitle:'Search Movies'});
 })
 
 
