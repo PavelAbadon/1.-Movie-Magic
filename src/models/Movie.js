@@ -59,7 +59,7 @@
     {
       "_id": "h006",
       "title": "The Exorcist",
-      "genre": "Horror",
+      "genre": "Horror, Thriller",
       "description": "When a young girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
       "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.DKLvHNGtNgdEInrSFQLrmgHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
       "director": "William Friedkin",
@@ -99,7 +99,7 @@
         }
 
         if(filter.genre){
-          
+          result = result.filter(movie => movie.genre.toLowerCase() === filter.genre.toLowerCase());
         }
 
         if(filter.year){
