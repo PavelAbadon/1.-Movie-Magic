@@ -37,13 +37,13 @@ SoftUni JS Back-End Course Workshop
  - [x] Add route with param for details page 
  - [x] GetOne movie from service
  - [x] Find movie by id from model
- - [ ] Render details page with dynamic data
+ - [x] Render details page with dynamic data
 ### Search
- - [ ] Show static search page
- - [ ] Render all movies
- - [ ] Modify search form
+ - [x] Show static search page
+ - [x] Render all movies
+ - [x] Modify search form
  - [ ] Filter movies
-   - [ ] By year
+   - [x] By year
    - [ ] By genre
    - [ ] By title 
  - [ ] Remember search words

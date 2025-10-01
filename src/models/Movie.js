@@ -94,6 +94,18 @@
           result = movies.filter(movie => movie._id === filter._id);
         }
 
+        if(filter.title){
+
+        }
+
+        if(filter.genre){
+          
+        }
+
+        if(filter.year){
+          result = result.filter(movie => movie.year === filter.year);
+        }
+
         return result;
 
     }
