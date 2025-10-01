@@ -31,6 +31,10 @@
           result = result.filter(movie => movie.year === filter.year);
         }
 
+        if(filter.rating){
+          result = result.filter(movie => movie.rating >= filter.rating);
+        }
+
         return result;
 
     }

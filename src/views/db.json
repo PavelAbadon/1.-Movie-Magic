@@ -8,7 +8,7 @@
       "imageUrl": "https://posterspy.com/wp-content/uploads/2022/10/nosferatu-genzo-1280.jpg",
       "director": "F. W. Murnau",
       "year": "1922",
-      "rating": 7.9,
+      "rating": 6,
       "category": "movie"
     },
     {
@@ -19,7 +19,7 @@
       "imageUrl": "https://www.mmobomb.com/file/2024/8/castlevania-dead-by-daylight-feat.jpg",
       "director": "Tod Browning",
       "year": "1931",
-      "rating": 7.5,
+      "rating": 5,
       "category": "movie"
     },
     {
@@ -30,7 +30,7 @@
       "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.CT4v1JE2igzEQgEadI35XgHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
       "director": "James Whale",
       "year": "1931",
-      "rating": 7.8,
+      "rating": 3,
       "category": "movie"
     },
     {
@@ -41,7 +41,7 @@
       "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.uKhHHpiNnlCWsZ_jlWCyIgHaJ8?rs=1&pid=ImgDetMain&o=7&rm=3",
       "director": "Alfred Hitchcock",
       "year": "1960",
-      "rating": 8.5,
+      "rating": 8,
       "category": "movie"
     },
     {
@@ -52,7 +52,7 @@
       "imageUrl": "https://th.bing.com/th/id/R.16013edf292e608ff7c4a441725baa7b?rik=PgTpGNMwq%2fkjrQ&pid=ImgRaw&r=0",
       "director": "George A. Romero",
       "year": "1968",
-      "rating": 7.8,
+      "rating": 4,
       "category": "movie"
     },
     {
@@ -63,7 +63,7 @@
       "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.DKLvHNGtNgdEInrSFQLrmgHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
       "director": "William Friedkin",
       "year": "1973",
-      "rating": 8.1,
+      "rating": 6,
       "category": "movie"
     },
     {
@@ -74,7 +74,7 @@
       "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Sqvs0_xSBVZIsbKws5H6gwHaLO?rs=1&pid=ImgDetMain&o=7&rm=3",
       "director": "John Carpenter",
       "year": "1978",
-      "rating": 7.7,
+      "rating": 7,
       "category": "movie"
     },
     {
