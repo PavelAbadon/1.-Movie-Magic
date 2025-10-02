@@ -60,6 +60,17 @@ SoftUni JS Back-End Course Workshop
  - [x] Install mongoose npm i mongoose
  - [x] Connect to DB
 
+ ## Refactor Movies to use mongoose
+ - [x] Add movie model
+  - [x] Create movie schema
+  - [ ] Create movie model
+ - [ ]Import file movies to database !DON'T IMPORT IDs
+ - [ ]Fix own property handlebars problem with lean method
+ - [ ]General fix for own property problem
+ - [ ]Refactor details
+ - [ ]Refactor create
+ - [ ]Refactor search
+
 
 
 
