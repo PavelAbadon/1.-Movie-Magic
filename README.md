@@ -67,9 +67,9 @@ SoftUni JS Back-End Course Workshop
  - [x]Import file movies to database !DON'T IMPORT IDs
  - [ ]Fix own property handlebars problem with lean method
  - [x]General fix for own property problem
- - [ ]Refactor details
- - [ ]Refactor create
- - [ ]Refactor search
+  - [x]Refactor details
+  - [x]Refactor create
+  - [x]Refactor search
 
 
 
