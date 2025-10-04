@@ -72,6 +72,15 @@ SoftUni JS Back-End Course Workshop
   - [x]Refactor search
 
 
+## Add Cast
+- [x] Add new resources
+- [x] Create Cast Controller
+- [x] Create Cast Page
+- [x] Add Cast model
+- [x] Create Cast Service
+- [x] Create Cast Functionallity  
+
+
 
 
 
