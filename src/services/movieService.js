@@ -6,7 +6,8 @@ export default{
     getAll(filter) {
         let query = Movie.find();
 
-        if (filter.title) {
+        if(filter){
+            if (filter.title) {
             // TODO Search by title, partial match, case insensitive
             query = query.find({ title: { $regex: filter.title, $options: 'i' } });
         }
@@ -22,6 +23,7 @@ export default{
 
         if(filter.rating){
           query = query.where('rating').gte(filter.rating);
+        }
         }
         
 
