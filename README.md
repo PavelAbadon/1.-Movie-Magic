@@ -80,6 +80,14 @@ SoftUni JS Back-End Course Workshop
 - [x] Create Cast Service
 - [x] Create Cast Functionallity  
 
+## Attach Cast to Movie (relations)
+- [ ] Add attach cast button
+- [ ] Add attach cast page
+- [ ] Add dynamic data to cast page
+- [ ] Show cast list in attach select
+- [ ] Add relation between cast and movie
+- [ ] Attach cast functionallity
+
 
 
 
