@@ -172,3 +172,61 @@ footer {
         padding: 0;
     }
 }
+
+/* Attach Cast Section */
+#attachCast {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2em 1em;
+}
+
+.attach-cast-section {
+    background-color: #FFE5D9;
+    border-radius: 10px;
+    padding: 2em;
+    max-width: 700px;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.attach-form {
+    text-align: center;
+}
+
+.attach-form h2 {
+    margin-bottom: 0.5em;
+}
+
+.attach-form img.movie {
+    max-width: 250px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1em;
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.attach-form select {
+    width: 60%;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#center-btn {
+    margin-top: 1em;
+}
+
+#center-btn button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #B5838D;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#center-btn button:hover {
+    background-color: #E5989B;
+}
