@@ -81,12 +81,17 @@ SoftUni JS Back-End Course Workshop
 - [x] Create Cast Functionallity  
 
 ## Attach Cast to Movie (relations)
-- [ ] Add attach cast button
-- [ ] Add attach cast page
-- [ ] Add dynamic data to cast page
-- [ ] Show cast list in attach select
-- [ ] Add relation between cast and movie
-- [ ] Attach cast functionallity
+- [x] Add attach cast button
+- [x] Add attach cast page
+- [x] Add dynamic data to cast page
+- [x] Show cast list in attach select
+- [x] Add relation between cast and movie
+- [x] Attach cast functionallity
+
+### Show Cast Details (population)
+- [ ] Get movie casts filtered
+- [ ] Show casts on details
+- [ ] Get movie casts using population
 
 
 

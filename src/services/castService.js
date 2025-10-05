@@ -6,7 +6,13 @@ export default{
         return Cast.create(castData);
     },
 
-    getAll(){
-        return Cast.find();
+    getAll(filter = {}){
+        let query = Cast.find();
+
+        if (filter.includes) {
+            query = query.in('_id', filter.includes);
+        }    
+
+        return query;
     }
 }
