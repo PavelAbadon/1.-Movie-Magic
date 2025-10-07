@@ -93,6 +93,34 @@ SoftUni JS Back-End Course Workshop
 - [ ] Show casts on details
 - [ ] Get movie casts using population
 
+### Workshop 3 - Session and Authentication
+
+
+## Initial Setup
+- [ ] Add resources
+## Registration
+- [ ] Add new controller authController
+- [ ] Add registration page
+- [ ] Add User model
+- [ ] Add User service
+- [ ] Handle registration (create user in database)
+- [ ] Add password hashing
+## Login
+- [ ] Add login page
+- [ ] Handle login page
+- [ ] Validate user
+- [ ] Validate password
+- [ ] Create token
+- [ ] Return token to client
+## Logout
+- [ ] Add logout action
+- [ ] Clear cookie
+## Authorization
+- [ ] Install cookie parser
+- [ ] Add auth middleware
+- [ ] Add isAuth route guard
+- [ ] Add isGuest route guard
+
 
 
 
