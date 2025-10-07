@@ -97,7 +97,7 @@ SoftUni JS Back-End Course Workshop
 
 
 ## Initial Setup
-- [ ] Add resources
+- [x] Add resources
 ## Registration
 - [ ] Add new controller authController
 - [ ] Add registration page
