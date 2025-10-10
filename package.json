@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PavelAbadon/1.-Movie-Magic#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "express": "^5.1.0",
     "express-handlebars": "^8.0.3",
     "mongoose": "^8.18.3",

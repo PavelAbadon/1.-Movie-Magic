@@ -1,7 +1,8 @@
 import User from "../models/User.js"
 
 export default{
-    register(userData){
-        return User.create(userData)
+   async register(userData) {
+        const user = new User(userData);
+        await user.save(); 
     }
 }
