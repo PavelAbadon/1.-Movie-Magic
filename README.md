@@ -107,11 +107,11 @@ SoftUni JS Back-End Course Workshop
 - [x] Add password hashing
 ## Login
 - [x] Add login page
-- [ ] Handle login page
-- [ ] Validate user
-- [ ] Validate password
-- [ ] Create token
-- [ ] Return token to client
+- [x] Handle login page
+- [x] Validate user
+- [x] Validate password
+- [x] Create token
+- [x] Return token to client
 ## Logout
 - [ ] Add logout action
 - [ ] Clear cookie
