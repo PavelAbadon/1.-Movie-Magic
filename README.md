@@ -113,11 +113,11 @@ SoftUni JS Back-End Course Workshop
 - [x] Create token
 - [x] Return token to client
 ## Logout
-- [ ] Add logout action
-- [ ] Clear cookie
+- [x] Add logout action
+- [x] Clear cookie
 ## Authorization
-- [ ] Install cookie parser
-- [ ] Add auth middleware
+- [x] Install cookie parser
+- [x] Add auth middleware
 - [ ] Add isAuth route guard
 - [ ] Add isGuest route guard
 
