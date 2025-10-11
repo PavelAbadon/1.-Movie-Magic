@@ -121,7 +121,27 @@ SoftUni JS Back-End Course Workshop
 - [ ] Add isAuth route guard
 - [ ] Add isGuest route guard
 
-
+### Dynamic Navigation
+- [ ] Group navigation by user type (all, authenticated and guest)
+- [ ] Add auth info to handlebars context
+- [ ]Show creator control buttons
+ - [ ]Add edit and delete buttons on details page
+ - [ ]Add creator as relation to movies
+ - [ ]Add user as creator on movie create
+ - [ ]Show buttons only for creators
+## Delete movies
+- [ ] Add delete action
+- [ ] Add creator validation
+## Edit movies
+- [ ] Add edit page
+- [ ] Add dynamic movie data to edit page
+- [ ] Handle edit movie
+Bonuses
+ Automatic login on register
+ Edit categories
+ Invalidate token on logout
+ Refresh token
+ Async jwt
 
 
 
