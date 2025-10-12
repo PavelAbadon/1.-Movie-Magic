@@ -32,10 +32,13 @@ export default{
         return query;
     },
 
-    create(movieData){
-        movieData.rating = Number(movieData.rating);
-        const movie = new Movie (movieData);
-        return movie.save();
+    create(movieData, creatorId){
+               
+        return Movie.create({
+            ...movieData,
+            rating:  Number(movieData.rating),
+            creator: creatorId,
+        });
         
     },
     getOne(movieId){
