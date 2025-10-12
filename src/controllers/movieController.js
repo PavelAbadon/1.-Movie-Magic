@@ -86,5 +86,7 @@ movieController.post('/:movieId/edit', isAuth, async (req, res) =>{
 });
 
 
+
+
 export default movieController;
 
