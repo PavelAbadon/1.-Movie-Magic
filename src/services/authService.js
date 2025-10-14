@@ -25,12 +25,12 @@ export default{
     async login(email, password){
         const user = await User.findOne({ email });
         if(!user){
-            throw new Error('Invalid User or Password');
+            throw new Error('Invalid User or Password1');
         }
 
         const isValid = await bcrypt.compare(password, user.password)
         if(!isValid){
-            throw new Error('Invalid User or Password');
+            throw new Error('Mising or Invalid Password');
         }
         
         const token = generateAuthToken(user);

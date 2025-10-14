@@ -32,12 +32,20 @@ authController.get('/login', isGuest, (req, res) => {
 
 authController.post('/login', isGuest, async (req, res) => {
     const{email, password} = req.body;
-    const token = await authService.login(email, password);
+
+    try {const token = await authService.login(email, password);
 
     res.cookie('auth', token)
     
 
     res.redirect('/');
+        
+    } catch (err) {
+        let errorMessage = getErrorMessage(err);
+
+        res.status(400).render('auth/login', { error: errorMessage, user: { email } });
+    }
+    
 });
 
 authController.get('/logout', isAuth, (req,res) => {

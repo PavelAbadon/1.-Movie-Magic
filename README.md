@@ -157,7 +157,7 @@ SoftUni JS Back-End Course Workshop
 - [x] Render error container conditionally
 - [x] Retain form data on error
 - [x] Extract get error message
-- [ ] User login error handling
+- [x] User login error handling and addtext if empty password field
 - [ ] Create movie error handling
 - [ ] BONUS retain movie category after error
 - [ ] Create cast error handling
