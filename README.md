@@ -150,10 +150,11 @@ SoftUni JS Back-End Course Workshop
 - [x] Validate cast
 - [x] Validate user
 - [ ] BONUS: Validate passwords in model
+
 ## Error Handling
-- [ ] Add static error notification container
-- [ ] User register error handling
-- [ ]Render error container conditionally
+- [x] Add static error notification container
+- [x] User register error handling
+- [ ] Render error container conditionally
 - [ ] Retain form data on error
 - [ ] Extract get error message
 - [ ] User login error handling
