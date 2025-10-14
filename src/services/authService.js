@@ -7,6 +7,12 @@ import { generateAuthToken } from "../utils/tokenUtils.js";
 
 export default{
    async register(userData) {
+        const isUserExists = await User.exists({email:  userData.email});
+        if(isUserExists){
+           throw new Error('User allready exists');
+
+        }
+
         const user = await User.create(userData);
         const token = generateAuthToken(user)
         return token; 

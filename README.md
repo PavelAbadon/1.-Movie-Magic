@@ -143,6 +143,35 @@ SoftUni JS Back-End Course Workshop
  Refresh token
  Async jwt
 
+ ### Workshop 4 - Validation and Error Handling
+ - [ ] Add resources
+## Validation
+- [x] Validate movie
+- [x] Validate cast
+- [ ] Validate user
+- [ ] BONUS: Validate passwords in model
+## Error Handling
+- [ ] Add static error notification container
+- [ ] User register error handling
+- [ ]Render error container conditionally
+- [ ] Retain form data on error
+- [ ] Extract get error message
+- [ ] User login error handling
+- [ ] Create movie error handling
+- [ ] BONUS retain movie category after error
+- [ ] Create cast error handling
+- [ ] Add details page error handling
+- [ ] Error handling on movie edit page
+- [ ] Fix movie category on edit
+### Bonuses
+- [ ] Dynamic page title using handlebars helper
+- [ ] Guard edit from non creator
+- [ ] Redirect with message (tempData)
+- [ ] Explain http only
+- [ ] Dynamic year check
+- [ ] Character name
+- [ ] Add more password validations
+
 
 
 
