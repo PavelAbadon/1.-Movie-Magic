@@ -13,6 +13,10 @@ export default{
 
         }
 
+        if(userData.password !== userData.rePassword){
+            throw new Error("Паролата не е еднаква");
+        }
+
         const user = await User.create(userData);
         const token = generateAuthToken(user)
         return token; 

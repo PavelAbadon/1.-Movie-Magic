@@ -148,7 +148,7 @@ SoftUni JS Back-End Course Workshop
 ## Validation
 - [x] Validate movie
 - [x] Validate cast
-- [ ] Validate user
+- [x] Validate user
 - [ ] BONUS: Validate passwords in model
 ## Error Handling
 - [ ] Add static error notification container
