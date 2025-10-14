@@ -154,9 +154,9 @@ SoftUni JS Back-End Course Workshop
 ## Error Handling
 - [x] Add static error notification container
 - [x] User register error handling
-- [ ] Render error container conditionally
-- [ ] Retain form data on error
-- [ ] Extract get error message
+- [x] Render error container conditionally
+- [x] Retain form data on error
+- [x] Extract get error message
 - [ ] User login error handling
 - [ ] Create movie error handling
 - [ ] BONUS retain movie category after error
